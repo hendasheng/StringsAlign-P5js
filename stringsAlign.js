@@ -14,7 +14,7 @@ class StringsAlign {
             if (reAxisX) {
                 pos_x = index_x - distance * axisX_index_int;
             } else {
-                pos_x = index_x - distance * axisX_index_int + distanceMax * axisX_index;
+                pos_x = index_x - distance * axisX_index_int + distanceMax * axisX_index_int;
             }
             text(strings[i], pos_x, 0);
         }
@@ -34,7 +34,7 @@ class StringsAlign {
             if (reAxisX) {
                 pos_y = index_y - distance * axisY_index_int;
             } else {
-                pos_y = index_y - distance * axisY_index_int + distanceMax * axisY_index;
+                pos_y = index_y - distance * axisY_index_int + distanceMax * axisY_index_int;
             }
             text(strings[i], 0, pos_y);
         }
