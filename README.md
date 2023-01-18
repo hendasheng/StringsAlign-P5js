@@ -14,9 +14,8 @@
 StringsAlign.js 主要提供两个方法：
  - `horizontal`
  - `vertical`
- 
- 分别用于横/纵向排列字符串。
 
+ 分别用于横/纵向排列字符串。
 
 ``` javascript
 let sa;
