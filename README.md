@@ -1,4 +1,5 @@
 # StringsAlign.js for p5js
+![ezgif com-gif-maker (24)](https://user-images.githubusercontent.com/20842136/213120229-7886b55f-ea22-4bd4-ac30-a1ecdba7ef8d.gif)
 
 用于 [P5.js](http://www.p5js.org/) 的字符串对齐工具。
 
